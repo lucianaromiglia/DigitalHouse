@@ -1,0 +1,43 @@
+
+header{
+    background-color: #E4E0E0;
+    text-align: center;
+    margin-bottom: 4%;
+}
+
+
+h1{
+    color: #055b87;
+    background-color: #bfc2c4;
+    letter-spacing: 9px;
+}
+
+main{
+    width: 75%;
+    margin: auto;
+    margin-bottom: 4%;
+}
+
+
+.titles{
+
+    background-color: #c8c8c8;
+    color: #6e130a;
+    letter-spacing: 9px;
+}
+
+.sub-titles{
+    font-family: 'Arial';
+    font-weight: 900;
+    font-style: italic;
+    line-height: 30px; 
+    text-align: left;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: #196699;
+    font-size: 30px;
+    
+
+}
